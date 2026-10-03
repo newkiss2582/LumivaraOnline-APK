@@ -4,7 +4,7 @@
 
 ## ดาวน์โหลด
 
-ดาวน์โหลด APK ได้ที่หน้า [Releases](https://github.com/newkiss2582/Lumivara-Online-Client/releases)
+ดาวน์โหลด APK ได้ที่หน้า [[Releases](https://github.com/newkiss2582/Lumivara-Online-Client/releases)](https://github.com/newkiss2582/LumivaraOnline-APK/releases/tag/android-v1.9.0)
 
 สำหรับ Android รุ่น 1.9 เลือกไฟล์ **Lumivara-Online-Android-1.9.apk**
 
